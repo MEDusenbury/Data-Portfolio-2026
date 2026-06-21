@@ -42,7 +42,7 @@ National wealth and population health are obviously related — but how, and how
 
 GDP per capita explains 62% of cross-national variation in life expectancy. The remaining 38% reflects healthcare systems, inequality, culture, and other structural factors.
 
-![Life Expectancy vs GDP per Capita](charts/life_exp_vs_gdp_trendline.png)
+![Life Expectancy vs GDP per Capita](Charts/life_exp_vs_gdp_trendline.png)
 
 **Regional patterns worth noting:**
 
@@ -63,7 +63,7 @@ The Sub-Saharan Africa variance is analytically significant. Equatorial Guinea (
 
 **Finding: Indeterminate.** The hypothesis cannot be conclusively tested with available country-level data.
 
-![Suicide Rate vs GDP by Region](charts/suicide_vs_gdp_region.png)
+![Suicide Rate vs GDP by Region](Charts/suicide_vs_gdp_region.png)
 
 The global suicide rate chart shows rates peaking at middle-income levels — an inverted U rather than the predicted U. However, this pattern cannot be interpreted as evidence against the hypothesis for two reasons:
 
@@ -114,9 +114,9 @@ Countries were binned into three religiosity tiers using natural breaks on `Reli
 | Medium | 11.6 |
 | High | 9.8 |
 
-![Suicide Rate vs GDP by Religiosity Tier](charts/H3_Suicide_vs_GDP_by_Religiosity_Tier_labeled.png)
+![Suicide Rate vs GDP by Religiosity Tier](Charts/H3_Suicide_vs_GDP_by_Religiosity_Tier_labeled.png)
 
-![Suicide Rate Distribution by Tier](charts/H3_Suicide_Boxplot_by_Tier.png)
+![Suicide Rate Distribution by Tier](Charts/H3_Suicide_Boxplot_by_Tier.png)
 
 **Regression results by tier:**
 
